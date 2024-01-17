@@ -13,8 +13,12 @@ implementation("androidx.datastore:datastore-preferences:1.0.0")
 ```
 
 ## Prints
-![](_prints\homeSemValorSalvo.png)
 
-![](_prints\homeComValorSalvo.png)
+### Home sem Valor
+<img height="600" src="./_prints/homeSemValorSalvo.png">
 
-![](_prints\btnSalvar.png)
+### Home com valor
+<img height="600" src="./_prints/homeComValorSalvo.png">
+
+### Botão de gerar um valor aleatório e salvar no Datastore
+<img height="600" src="./_prints/btnSalvar.png">
